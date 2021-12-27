@@ -1,7 +1,7 @@
 # API TESTING USING JEST
 
 ## Description
-Application explains how to test a simple node api using Jest and then run the tests automatically when code is committed to github using CircleCI
+Application explains how to test a simple node api using Jest and then run the tests automatically using CircleCI when code is committed to github 
 
 ## Development environment Setup
 -	Install node and npm 
